@@ -5,3 +5,4 @@ test 'git push ' again;
 test 'git push ' again after configing push.default;
 
 add on branch of test1;
+add on branch of test1 again;
